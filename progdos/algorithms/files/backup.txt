@@ -1,0 +1,159 @@
+import java.util.*;
+import java.io.*;
+import java.lang.Math;
+import java.text.DecimalFormat;
+
+public class gradesort
+{
+    public static void main (String[] args)
+    {
+        Scanner scan = new Scanner(System.in);
+        ArrayList<String> files = new ArrayList<String>();
+        String[] grades = {"A", "B", "C", "D", "F"};
+        DecimalFormat rounding = new DecimalFormat("00.000");
+        String file = "";
+        
+        try {
+            FileReader filereader = new FileReader("files/Classes.txt");
+            BufferedReader bufferedreader = new BufferedReader(filereader);
+            while ((file = bufferedreader.readLine()) != null)
+                files.add(file);
+            bufferedreader.close();
+        } catch (FileNotFoundException error) {
+            System.out.println(error);
+        } catch (IOException error) {
+            System.out.println(error);
+        }
+        
+        ArrayList<studnt> classes = new ArrayList<studnt>();
+        ArrayList<double[][]> periods = new ArrayList<double[][]>();
+        ArrayList<ArrayList> groups = new ArrayList<ArrayList>();
+        double[][] school = new double[5][3];
+        
+        double[] avg = new double[files.size() + 1];
+        String line = "";
+        
+        for (String a : files) {
+            try {
+                int count = 0;
+                FileReader filereader = new FileReader("files/" + a);
+                BufferedReader bufferedreader = new BufferedReader(filereader);
+                while ((line = bufferedreader.readLine()) != null) {
+                    String[] data = line.split("\t");
+                    if (!data[0].equals("Name")) {
+                        count += 1;
+                        try {
+                            classes.add(new studnt(data[0], Integer.parseInt(data[1]), Integer.parseInt(data[2])));
+                        } catch (ArrayIndexOutOfBoundsException error) {
+                            classes.add(new studnt(data[0], 0, Integer.parseInt(data[2])));
+                        } catch (NumberFormatException error) {
+                            classes.add(new studnt(data[0], 0, Integer.parseInt(data[2])));
+                        }
+                    }
+                }
+                bufferedreader.close();
+                
+                if (count > 0) {
+                    periods.add(new double[5][3]);
+                    groups.add(new ArrayList<studnt>());
+                }
+            } catch (FileNotFoundException error) {
+                System.out.println(error);
+            } catch (IOException error) {
+                System.out.println(error);
+            }
+        }
+        
+        for (studnt x : classes)
+            groups.get(x.period - 1).add(x);
+        
+        try {
+            System.out.print("Would you like to sort students by name (0) or by score (1): ");
+            boolean score = (Integer.parseInt(scan.nextLine()) != 0);
+            String sortmethod = (score) ? "scores" : "names";
+            System.out.print("Would you like to sort the entire schools' " + sortmethod + " (0) or individual periods' " + sortmethod + " (1): ");
+            boolean range = (Integer.parseInt(scan.nextLine()) == 0);
+
+            for (int o = 0; o < (classes.size() - 1); o += 1) {
+                boolean abc123 = (score) ? (classes.get(o).getGrade() < classes.get(o + 1).getGrade()) : (classes.get(o).getName().compareTo(classes.get(o + 1).getName()) > 0);
+                if (abc123) {
+                    studnt tmp = classes.get(o);
+                    classes.set(o, classes.get(o + 1));
+                    classes.set(o + 1, tmp);
+                    o = -1;
+                }
+            }
+            
+            int[] mode = new int[102];
+            for (studnt j : classes) {
+                mode[j.getGrade()] += 1;
+                System.out.println(j);
+            }
+    
+            for (int x = 0; x < mode.length; x += 1)
+                if (mode[x] > mode[mode[101]])
+                    mode[101] = x;
+            System.out.println("Mode: " + mode[101]);
+            
+            
+            
+            /*
+            bufferedwriter.write("Name\t\tGrade\tPeriod\tLetter Grade\n");
+            for (studnt b : classes)
+                bufferedwriter.write(b + "\n");
+            
+            for (studnt c : classes)
+                for (int d = 0; d < periods.size(); d += 1)
+                    if (c.getPeriod() == (d + 1)) {
+                        avg[d] += c.getGrade();
+                        for (int e = 0; e < grades.length; e += 1) {
+                            periods.get(d)[e][0] += 1;
+                            if (c.letterGrade(c.getGrade()).equals(grades[e]))
+                                periods.get(d)[e][1] += 1;
+                        }
+                    }
+            
+            for (double[][] f : periods)
+                for (double[] g : f)
+                    g[2] = (g[1] / g[0]) * 100;
+            
+            // Write Information
+            for (int i = 0; i < periods.size(); i += 1) {
+                bufferedwriter.write("\nPeriod " + (i + 1) + "\n");
+                bufferedwriter.write(" - Average: " + rounding.format(avg[i] / periods.get(i)[0][0]) + "%\n");
+                bufferedwriter.write(" - Grade Distribution\n");
+                for (int j = 0; j < periods.get(i).length; j += 1) {
+                    bufferedwriter.write("\t - " + grades[j] + "'s\n");
+                    bufferedwriter.write("\t\tPercentage: " + rounding.format(periods.get(i)[j][2]) + "%\n");
+                    bufferedwriter.write("\t\tStudents: " + (int)periods.get(i)[j][1] + "\n");
+                }
+            }
+            
+            for (studnt k : classes) {
+                avg[files.size()] += (k.getGrade() / (double)classes.size());
+                for (int l = 0; l < grades.length; l += 1) {
+                    school[l][0] += 1;
+                    if (k.letterGrade(k.getGrade()).equals(grades[l]))
+                        school[l][1] += 1;
+                }
+            }
+            
+            for (double[] m : school)
+                m[2] = (m[1] / m[0]) * 100;
+            
+            bufferedwriter.write("\nTotal\n");
+            bufferedwriter.write(" - Average: " + rounding.format(avg[files.size()]) + "%\n");
+            bufferedwriter.write(" - Grade Distribution\n");
+            for (int n = 0; n < grades.length; n += 1) {
+                bufferedwriter.write("\t - " + grades[n] + "'s\n");
+                bufferedwriter.write("\t\tPercentage: " + rounding.format(school[n][2]) + "%\n");
+                bufferedwriter.write("\t\tStudents: " + (int)school[n][1] + "\n");
+            }
+            
+            bufferedwriter.close();
+            */
+        } catch(IndexOutOfBoundsException error) {
+            System.out.println(error);
+        }
+    }
+}

@@ -1,0 +1,177 @@
+Name		Grade	Period	Letter Grade
+Gustavo		90%	1	A
+Jakob		85%	1	B
+Dillon		93%	1	A
+Donell		75%	1	C
+Vincent		83%	1	B
+Shane		87%	1	B
+Nathan		98%	1	A
+Jake		65%	1	D
+Adam		100%	1	A
+Nicole		72%	1	C
+Austin		78%	1	C
+Nikola		93%	1	A
+Peter		88%	1	B
+Richard		56%	1	F
+Craig		99%	1	A
+Mike		72%	2	C
+Brian		87%	2	B
+Jacob		94%	2	A
+Beth		100%	2	A
+Jorge		63%	2	D
+Tomas		67%	2	D
+Nico		76%	2	C
+Luka		82%	2	B
+Beth		84%	2	B
+Kathy		92%	2	A
+Shelly		46%	2	F
+Anne		66%	2	D
+Julie		87%	2	B
+Becky		81%	2	B
+Kim		68%	2	D
+Chase		61%	2	D
+Bradley		88%	2	B
+Jennifer	95%	3	A
+Annie		97%	3	A
+Amy		76%	3	C
+Jessie		87%	3	B
+Nikki		95%	3	A
+Lauren		97%	3	A
+Katie		67%	3	D
+Michelle	89%	3	B
+Amanda		88%	3	B
+Jenny		100%	3	A
+Christine	92%	3	A
+Carrie		83%	3	B
+Kathryn		72%	3	C
+Meridith	96%	3	A
+Kimmie		99%	3	A
+Alex		56%	4	F
+Jason		77%	4	C
+Dave		36%	4	F
+Alexa		27%	4	F
+Adam		79%	4	C
+Michael		55%	4	F
+Angel		75%	5	C
+Kevin		0%	5	F
+Harper		45%	5	F
+Brayden		99%	5	A
+Reece		0%	5	F
+Tyler		77%	5	C
+Mark		0%	5	F
+Jackson		0%	5	F
+Drake		88%	5	B
+
+Period 1
+ - Average: 84.133%
+ - Grade Distribution
+	 - A's
+		Percentage: 40.000%
+		Students: 6
+	 - B's
+		Percentage: 26.667%
+		Students: 4
+	 - C's
+		Percentage: 20.000%
+		Students: 3
+	 - D's
+		Percentage: 06.667%
+		Students: 1
+	 - F's
+		Percentage: 06.667%
+		Students: 1
+
+Period 2
+ - Average: 77.294%
+ - Grade Distribution
+	 - A's
+		Percentage: 17.647%
+		Students: 3
+	 - B's
+		Percentage: 35.294%
+		Students: 6
+	 - C's
+		Percentage: 11.765%
+		Students: 2
+	 - D's
+		Percentage: 29.412%
+		Students: 5
+	 - F's
+		Percentage: 05.882%
+		Students: 1
+
+Period 3
+ - Average: 88.867%
+ - Grade Distribution
+	 - A's
+		Percentage: 53.333%
+		Students: 8
+	 - B's
+		Percentage: 26.667%
+		Students: 4
+	 - C's
+		Percentage: 13.333%
+		Students: 2
+	 - D's
+		Percentage: 06.667%
+		Students: 1
+	 - F's
+		Percentage: 00.000%
+		Students: 0
+
+Period 4
+ - Average: 55.000%
+ - Grade Distribution
+	 - A's
+		Percentage: 00.000%
+		Students: 0
+	 - B's
+		Percentage: 00.000%
+		Students: 0
+	 - C's
+		Percentage: 33.333%
+		Students: 2
+	 - D's
+		Percentage: 00.000%
+		Students: 0
+	 - F's
+		Percentage: 66.667%
+		Students: 4
+
+Period 5
+ - Average: 42.667%
+ - Grade Distribution
+	 - A's
+		Percentage: 11.111%
+		Students: 1
+	 - B's
+		Percentage: 11.111%
+		Students: 1
+	 - C's
+		Percentage: 22.222%
+		Students: 2
+	 - D's
+		Percentage: 00.000%
+		Students: 0
+	 - F's
+		Percentage: 55.556%
+		Students: 5
+
+Total
+ - Average: 74.565%
+ - Grade Distribution
+	 - A's
+		Percentage: 29.032%
+		Students: 18
+	 - B's
+		Percentage: 24.194%
+		Students: 15
+	 - C's
+		Percentage: 17.742%
+		Students: 11
+	 - D's
+		Percentage: 11.290%
+		Students: 7
+	 - F's
+		Percentage: 17.742%
+		Students: 11

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=guard
+comment1.params=first\ last\ title\ pay\ stipend
+comment1.target=guard(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=void\ yearlypay()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

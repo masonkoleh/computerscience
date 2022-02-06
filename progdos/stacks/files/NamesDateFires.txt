@@ -1,0 +1,48 @@
+Anne	1/6/2017
+Nick	1/28/2017
+Tyler	2/20/2017
+Lisa	2/28/2017
+fire	3/14/2017
+Zach	3/17/2017
+Kim	3/30/2017
+fire	4/1/2017
+Ally	4/22/2017
+Becky	5/12/2017
+Abba	5/29/2017
+fire 2	5/31/2017
+Alina	6/19/2017
+Nikki	6/22/2017
+Markie	6/28/2017
+fire	6/30/2017
+Liana	7/8/2017
+Elicia	7/16/2017
+Jacob	8/4/2017
+Monique	8/20/2017
+Pat	8/29/2017
+fire 3	8/31/2017
+Sabina	9/3/2017
+Katie	9/8/2017
+Matt	10/1/2017
+fire	10/3/2017
+Liz	10/25/2017
+Ryan	11/4/2017
+Preksha	11/25/2017
+Emmy	11/30/2017
+Jordan	12/20/2017
+Mark	12/29/2017
+Paige	1/13/2018
+Michelle	1/31/2018
+Andrew	2/5/2018
+fire 4	2/7/2018
+Megan	2/11/2018
+fire 5	2/13/2018
+Geri	3/2/2018
+Kyle	3/10/2018
+Amy	3/16/2018
+fire	3/18/2018
+Kaylee	4/1/2018
+Evan	4/10/2018
+Amanda	4/14/2018
+William	5/5/2018
+fire 2	5/7/2018
+Rhiann	5/28/2018

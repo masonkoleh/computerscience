@@ -1,0 +1,16 @@
+Name	Grade	Period
+Gustavo	90	1
+Jakob	85	1
+Dillon	93	1
+Donell	75	1
+Vincent	83	1
+Shane	87	1
+Nathan	98	1
+Jake	65	1
+Adam	100	1
+Nicole	72	1
+Austin	78	1
+Nikola	93	1
+Peter	88	1
+Richard	56	1
+Craig	99	1

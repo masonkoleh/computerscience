@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=attendee
+comment1.params=a\ b\ c\ d
+comment1.target=attendee(java.lang.String[],\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

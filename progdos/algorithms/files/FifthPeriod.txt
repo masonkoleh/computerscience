@@ -1,0 +1,10 @@
+Name	Grade	Period
+Angel	75	5
+Kevin		5
+Harper	45	5
+Brayden	99	5
+Reece	Dropped	5
+Tyler	77	5
+Mark		5
+Jackson	No Grade	5
+Drake	88	5

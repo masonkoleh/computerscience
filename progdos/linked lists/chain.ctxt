@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=chain
+comment1.params=info
+comment1.target=chain(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ info()
+comment3.params=info
+comment3.target=void\ info(java.lang.Object)
+comment4.params=
+comment4.target=chain\ before()
+comment5.params=before
+comment5.target=void\ before(chain)
+comment6.params=
+comment6.target=chain\ after()
+comment7.params=after
+comment7.target=void\ after(chain)
+numComments=8

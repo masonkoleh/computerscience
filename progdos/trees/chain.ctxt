@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=chain
+comment1.params=info
+comment1.target=chain(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ info()
+comment3.params=info
+comment3.target=void\ info(java.lang.Object)
+comment4.params=child
+comment4.target=void\ add(chain)
+comment5.params=
+comment5.target=java.util.LinkedList\ children()
+comment6.params=
+comment6.target=java.util.LinkedList\ tree()
+comment7.params=
+comment7.target=void\ traverse()
+comment8.params=
+comment8.target=void\ depth()
+comment9.params=
+comment9.target=void\ breadth()
+numComments=10

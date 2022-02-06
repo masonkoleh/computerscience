@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=lawyer
+comment1.params=first\ last\ title\ pay\ rate\ hours
+comment1.target=lawyer(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ int)
+comment2.params=hours
+comment2.target=void\ addcourthours(int)
+comment3.params=
+comment3.target=void\ yearlypay()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

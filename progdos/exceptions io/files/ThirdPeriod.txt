@@ -1,0 +1,16 @@
+Name	Grade	Period
+Jennifer	95	3
+Annie	97	3
+Amy	76	3
+Jessie	87	3
+Nikki	95	3
+Lauren	97	3
+Katie	67	3
+Michelle	89	3
+Amanda	88	3
+Jenny	100	3
+Christine	92	3
+Carrie	83	3
+Kathryn	72	3
+Meridith	96	3
+Kimmie	99	3

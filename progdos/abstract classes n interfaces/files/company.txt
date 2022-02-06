@@ -1,0 +1,196 @@
+Name	Job Title	Level	Pay Grade	Years	Reports To
+Concetta Howarth	Chairman of the Board	1	25	22	No One
+Eleanora Bey	Board of Directors	2	20	5	Concetta Howarth
+Olimpia Silverman	Board of Directors	2	20	3	Concetta Howarth
+Barbera Timmerman	Board of Directors	2	20	17	Concetta Howarth
+Glennie Quintanilla	Board of Directors	2	20	7	Concetta Howarth
+Amy Risk	Board of Directors	2	20	9	Concetta Howarth
+Lachelle Amado	Board of Directors	2	20	2	Concetta Howarth
+Shellie Turcios	CEO	2	20	11	Concetta Howarth
+Esperanza Demar	CFO	3	16	6	Shellie Turcios
+Darcey Mckamey	COO	3	16	6	Shellie Turcios
+Sheryl Mazzariello	CTO	3	16	9	Shellie Turcios
+Dorothea Draves	Accounting Manager	4	6.5	14	Esperanza Demar
+Kai Gremillion	Directors of HR	4	6	4	Darcey Mckamey
+Lanette Clemmer	Accounting Manager	4	6.5	13	Esperanza Demar
+Lurlene Sartain	Directors of IT	4	5.5	2	Sheryl Mazzariello
+Phil Delagarza	Accounting Manager	4	6.5	25	Esperanza Demar
+Donnetta Font	Accounting Manager	4	6.5	18	Esperanza Demar
+Noelia Forster	Directors of IT	4	5.5	25	Sheryl Mazzariello
+Oma Burrill	Accounting Manager	4	6.5	1	Esperanza Demar
+Francene Dollar	Directors of HR	4	6	20	Darcey Mckamey
+Kristian Chiesa	Accounting Manager	4	6.5	5	Esperanza Demar
+Brunilda Nipper	Directors of IT	4	5.5	19	Sheryl Mazzariello
+Alfred Geter	Accountants	5	3.5	4	Dorothea Draves
+Amanda Bevacqua	IT Managers	5	2.5	23	Noelia Forster
+Christia Petre	HR Leads	5	3	1	Kai Gremillion
+Manuel Bate	Accountants	5	3.5	23	Oma Burrill
+Soledad Xu	IT Managers	5	2.5	9	Lurlene Sartain
+Alan Gagnon	HR Leads	5	3	6	Kai Gremillion
+Shirlene Minardi	HR Leads	5	3	14	Kai Gremillion
+Lorita Thigpen	HR Leads	5	3	17	Francene Dollar
+Carrie Oscar	HR Leads	5	3	16	Francene Dollar
+Jacelyn Veith	HR Leads	5	3	7	Francene Dollar
+Leroy Mathewson	Accountants	5	3.5	1	Dorothea Draves
+Kristy Derosia	Accountants	5	3.5	3	Donnetta Font
+Trinidad Mccrum	IT Managers	5	2.5	2	Lurlene Sartain
+Delores Soderberg	HR Leads	5	3	2	Francene Dollar
+Renna Grothe	Accountants	5	3.5	19	Dorothea Draves
+Isaiah Thurmon	Accountants	5	3.5	16	Lanette Clemmer
+Kenneth Blocher	Accountants	5	3.5	20	Lanette Clemmer
+Patrina Bogen	Accountants	5	3.5	6	Donnetta Font
+Neda Wootten	Accountants	5	3.5	7	Kristian Chiesa
+Larry Pappalardo	Accountants	5	3.5	18	Kristian Chiesa
+Eboni Mclaurin	IT Managers	5	2.5	9	Brunilda Nipper
+Dominica Viramontes	IT Managers	5	2.5	2	Brunilda Nipper
+Chasidy Spengler	HR Leads	5	3	7	Kai Gremillion
+Ricarda Aller	Accountants	5	3.5	7	Phil Delagarza
+Peter Towle	Accountants	5	3.5	23	Kristian Chiesa
+Diana Varnell	Accountants	5	3.5	24	Oma Burrill
+Cassy Arnot	Accountants	5	3.5	10	Phil Delagarza
+Shanelle Drayton	Accountants	5	3.5	18	Oma Burrill
+Leatha Hankey	Accountants	5	3.5	24	Oma Burrill
+Dot Loffredo	IT Managers	5	2.5	6	Brunilda Nipper
+Fletcher Lenhardt	IT Managers	5	2.5	2	Noelia Forster
+Denna Fink	HR Leads	5	3	19	Francene Dollar
+Marivel Kalis	HR Specialists	6	1.25	20	Lorita Thigpen
+Natacha Rayl	Secretaries	6	1	1	Leatha Hankey
+Conrad Bourget	IT Specialists	6	1.75	12	Trinidad Mccrum
+Glady Engelhardt	IT Specialists	6	1.75	15	Dot Loffredo
+Cyndi Rhodus	IT Specialists	6	1.75	23	Dot Loffredo
+Chae Olesen	IT Specialists	6	1.75	14	Eboni Mclaurin
+Phil Banas	IT Specialists	6	1.75	18	Trinidad Mccrum
+Christia Mulroy	IT Specialists	6	1.75	17	Dot Loffredo
+Velva Cadogan	HR Specialists	6	1.25	5	Shirlene Minardi
+Lonny Volkmann	IT Specialists	6	1.75	25	Fletcher Lenhardt
+Carlotta Hatten	IT Specialists	6	1.75	25	Fletcher Lenhardt
+Leif Han	IT Specialists	6	1.75	17	Amanda Bevacqua
+Reginald Barcus	IT Specialists	6	1.75	6	Eboni Mclaurin
+Zelma Bluhm	HR Specialists	6	1.25	24	Chasidy Spengler
+Mitzie Helm	IT Specialists	6	1.75	13	Dominica Viramontes
+Vicenta Troupe	Secretaries	6	1	9	Leroy Mathewson
+Rosana Rench	Secretaries	6	1	2	Patrina Bogen
+Danilo Carone	Secretaries	6	1	22	Isaiah Thurmon
+Nicky Cosenza	IT Specialists	6	1.75	16	Fletcher Lenhardt
+Christin Betts	IT Specialists	6	1.75	23	Soledad Xu
+Mariann Valls	IT Specialists	6	1.75	17	Dominica Viramontes
+Merideth Sparks	IT Specialists	6	1.75	19	Fletcher Lenhardt
+Sherley Emmert	IT Specialists	6	1.75	3	Soledad Xu
+Luann Racey	IT Specialists	6	1.75	1	Trinidad Mccrum
+Coralie Malecha	HR Specialists	6	1.25	7	Denna Fink
+Elina Gaeta	Secretaries	6	1	2	Peter Towle
+Vi Thrall	Secretaries	6	1	9	Kristy Derosia
+Daria Diller	IT Specialists	6	1.75	13	Amanda Bevacqua
+Valda Mullane	IT Specialists	6	1.75	20	Trinidad Mccrum
+Suzy Burdo	HR Specialists	6	1.25	3	Christia Petre
+Lianne Uhrig	HR Specialists	6	1.25	20	Carrie Oscar
+Yee Decato	Secretaries	6	1	24	Neda Wootten
+Bernita Nyman	Secretaries	6	1	22	Diana Varnell
+Samantha Pickering	IT Specialists	6	1.75	3	Dot Loffredo
+Zack Lykes	IT Specialists	6	1.75	19	Amanda Bevacqua
+Sherika Edgerly	IT Specialists	6	1.75	13	Soledad Xu
+Lacie Ballas	IT Specialists	6	1.75	16	Amanda Bevacqua
+Penelope Bodiford	IT Specialists	6	1.75	21	Amanda Bevacqua
+Latashia Pantaleo	IT Specialists	6	1.75	13	Dot Loffredo
+Beaulah Kreidler	HR Specialists	6	1.25	25	Lorita Thigpen
+Samara Hower	HR Specialists	6	1.25	24	Delores Soderberg
+Grazyna Stoltz	Secretaries	6	1	6	Renna Grothe
+Harriette Ketron	Secretaries	6	1	18	Manuel Bate
+Roxana Dillahunty	IT Specialists	6	1.75	17	Fletcher Lenhardt
+India Wark	IT Specialists	6	1.75	9	Soledad Xu
+Bill Bickford	IT Specialists	6	1.75	2	Amanda Bevacqua
+Vinnie Mainer	IT Specialists	6	1.75	22	Trinidad Mccrum
+Bree Hagwood	IT Specialists	6	1.75	2	Trinidad Mccrum
+Francie Waldon	IT Specialists	6	1.75	2	Amanda Bevacqua
+Eugena Labombard	Secretaries	6	1	5	Shanelle Drayton
+Vivien Campana	IT Specialists	6	1.75	15	Trinidad Mccrum
+Cheree Garrison	IT Specialists	6	1.75	12	Soledad Xu
+Rosann Gamber	IT Specialists	6	1.75	12	Eboni Mclaurin
+Yang Prager	IT Specialists	6	1.75	4	Fletcher Lenhardt
+Arnetta Wisdom	HR Specialists	6	1.25	3	Chasidy Spengler
+Luvenia Briones	Secretaries	6	1	18	Cassy Arnot
+Margaretta Barry	IT Specialists	6	1.75	22	Amanda Bevacqua
+Corine Caston	IT Specialists	6	1.75	11	Fletcher Lenhardt
+Marilynn Sumrall	IT Specialists	6	1.75	13	Eboni Mclaurin
+Alverta Elbert	Secretaries	6	1	6	Alfred Geter
+Edris Boettger	IT Specialists	6	1.75	13	Dominica Viramontes
+Alba Callas	HR Specialists	6	1.25	16	Carrie Oscar
+Krishna Mei	IT Specialists	6	1.75	2	Dominica Viramontes
+Myrtice Dials	IT Specialists	6	1.75	16	Trinidad Mccrum
+Branda Ton	IT Specialists	6	1.75	4	Soledad Xu
+Yuriko Linebarger	IT Specialists	6	1.75	23	Soledad Xu
+Mallory Spain	HR Specialists	6	1.25	17	Delores Soderberg
+Rhiannon Toohey	Secretaries	6	1	17	Kenneth Blocher
+Karen Zigler	IT Specialists	6	1.75	12	Dot Loffredo
+Sima Yochum	HR Specialists	6	1.25	2	Jacelyn Veith
+Chassidy Quan	HR Specialists	6	1.25	11	Lorita Thigpen
+Everett Miga	IT Specialists	6	1.75	19	Trinidad Mccrum
+Denae Ganz	IT Specialists	6	1.75	11	Eboni Mclaurin
+Jolynn Flatley	IT Specialists	6	1.75	14	Amanda Bevacqua
+Kim Dearman	IT Specialists	6	1.75	14	Eboni Mclaurin
+Carmelo Bolland	HR Specialists	6	1.25	10	Delores Soderberg
+Kathryne Gunter	HR Specialists	6	1.25	6	Carrie Oscar
+Wai Cashen	HR Specialists	6	1.25	19	Denna Fink
+Nina Whitley	IT Specialists	6	1.75	14	Fletcher Lenhardt
+Bethann Butters	IT Specialists	6	1.75	4	Eboni Mclaurin
+Carrol Muldowney	HR Specialists	6	1.25	12	Christia Petre
+Kazuko Nakano	Secretaries	6	1	18	Larry Pappalardo
+Gwendolyn Italiano	IT Specialists	6	1.75	20	Dot Loffredo
+Cathie Mcnamee	IT Specialists	6	1.75	9	Dominica Viramontes
+Marinda Mace	IT Specialists	6	1.75	8	Dominica Viramontes
+Delsie Wannamaker	HR Specialists	6	1.25	14	Christia Petre
+Emogene Moll	IT Specialists	6	1.75	10	Trinidad Mccrum
+Mei Gadsden	HR Specialists	6	1.25	24	Chasidy Spengler
+Homer Hoke	HR Specialists	6	1.25	1	Shirlene Minardi
+Gustavo Souliere	IT Specialists	6	1.75	25	Eboni Mclaurin
+Yolando Coggin	IT Specialists	6	1.75	11	Amanda Bevacqua
+Eartha Dipaola	IT Specialists	6	1.75	1	Trinidad Mccrum
+Regina Christ	IT Specialists	6	1.75	16	Fletcher Lenhardt
+Leta Poynor	HR Specialists	6	1.25	11	Shirlene Minardi
+Julietta Telesco	IT Specialists	6	1.75	7	Dot Loffredo
+Dena Bodily	IT Specialists	6	1.75	11	Dot Loffredo
+Willene Barnaby	IT Specialists	6	1.75	9	Dominica Viramontes
+Demetra Veith	IT Specialists	6	1.75	21	Dominica Viramontes
+Sol Boll	IT Specialists	6	1.75	18	Dominica Viramontes
+Annabel Hirt	IT Specialists	6	1.75	20	Dominica Viramontes
+Maribel Touchet	HR Specialists	6	1.25	9	Alan Gagnon
+Tiffiny Hartmann	IT Specialists	6	1.75	14	Eboni Mclaurin
+Ulysses Sweatman	HR Specialists	6	1.25	19	Alan Gagnon
+Ela Officer	IT Specialists	6	1.75	13	Soledad Xu
+Georgianne Ledwell	IT Specialists	6	1.75	9	Fletcher Lenhardt
+Lina Belote	IT Specialists	6	1.75	14	Dominica Viramontes
+Nolan Ditto	IT Specialists	6	1.75	19	Dot Loffredo
+Tamra Slankard	IT Specialists	6	1.75	24	Eboni Mclaurin
+Ricardo Hartsoe	HR Specialists	6	1.25	1	Jacelyn Veith
+Benton Wolf	HR Specialists	6	1.25	9	Chasidy Spengler
+Kathrin Shibata	HR Specialists	6	1.25	22	Alan Gagnon
+Marylyn Borth	HR Specialists	6	1.25	9	Chasidy Spengler
+Emmett Deer	Secretaries	6	1	18	Ricarda Aller
+Alysia Pollard	IT Specialists	6	1.75	12	Dot Loffredo
+Rebbecca Sparrow	IT Specialists	6	1.75	23	Fletcher Lenhardt
+Lashonda Klingler	IT Specialists	6	1.75	2	Soledad Xu
+Malissa Archuleta	HR Specialists	6	1.25	14	Jacelyn Veith
+Tiffany Brandenberger	HR Specialists	6	1.25	1	Denna Fink
+Salome Wakeman	HR Specialists	6	1.25	10	Christia Petre
+Darwin Atienza	HR Specialists	6	1.25	23	Shirlene Minardi
+Halina Parrilla	IT Specialists	6	1.75	17	Soledad Xu
+Janetta Priebe	IT Specialists	6	1.75	8	Amanda Bevacqua
+Ehtel Mikus	IT Specialists	6	1.75	19	Eboni Mclaurin
+Marry Bradish	IT Specialists	6	1.75	9	Soledad Xu
+Loreta Doolin	HR Interns	7	0.5	1	Marivel Kalis
+Bronwyn Bushard	HR Interns	7	0.5	1	Tiffany Brandenberger
+Shanon Veras	HR Interns	7	0.5	1	Alba Callas
+Bernadette Badeaux	HR Interns	7	0.5	1	Sima Yochum
+Reyes Harland	HR Interns	7	0.5	1	Carmelo Bolland
+Althea Verdun	HR Interns	7	0.5	1	Maribel Touchet
+Donette Fortney	HR Interns	7	0.5	1	Velva Cadogan
+Joanie Closson	HR Interns	7	0.5	1	Salome Wakeman
+Dorthea Neher	HR Interns	7	0.5	1	Mei Gadsden
+Genevive Luongo	HR Interns	7	0.5	1	Chassidy Quan
+Conchita Smithson	HR Interns	7	0.5	2	Coralie Malecha
+Chris Rorie	HR Interns	7	0.5	1	Kathryne Gunter
+Margeret Frum	HR Interns	7	0.5	1	Ricardo Hartsoe
+Cecil Bordeaux	HR Interns	7	0.5	2	Mallory Spain
+Alla Molino	HR Interns	7	0.5	1	Ulysses Sweatman
+Deandrea Nordeen	HR Interns	7	0.5	2	Leta Poynor
+Lise Lusk	HR Interns	7	0.5	2	Suzy Burdo

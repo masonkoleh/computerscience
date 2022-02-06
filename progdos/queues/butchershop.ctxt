@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=butchershop
+comment1.params=name\ pos\ time
+comment1.target=customer(java.lang.String,\ int,\ int)
+comment2.params=serv
+comment2.target=int\ served(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

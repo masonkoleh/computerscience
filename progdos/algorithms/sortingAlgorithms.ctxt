@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=sortingAlgorithms
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=names
+comment2.target=java.lang.String\ returnAllNames(java.lang.String[])
+comment3.params=names
+comment3.target=java.lang.String[]\ insertionSort(java.lang.String[])
+numComments=4

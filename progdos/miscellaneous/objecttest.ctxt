@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=objecttest
+comment1.params=m
+comment1.target=vehicle(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ model()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

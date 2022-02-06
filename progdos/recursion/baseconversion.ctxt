@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=baseconversion
+comment1.params=num\ base
+comment1.target=int\ test(int,\ int)
+comment2.params=num\ base\ exp
+comment2.target=int\ test(int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

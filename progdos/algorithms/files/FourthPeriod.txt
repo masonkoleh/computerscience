@@ -1,0 +1,7 @@
+Name	Grade	Period
+Alex	56	4
+Jason	77	4
+Dave	36	4
+Alexa	27	4
+Adam	79	4
+Michael	55	4
